@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Mobile Application Developer with 4 years of experience in cross-platform and native Android, IOS mobile apps development. I have good knowledge of Riverpod, Providers and BLoC Pattern. I take great care in the experience, architecture, and code quality of the things I develop.
+I'm Mobile Application Developer with 5 years of experience in cross-platform and native Android, IOS mobile apps development. I have good knowledge of OOP Pricipals, Riverpod, Providers and BLoC Pattern. I take great care in the experience, architecture, and code quality of the things I develop.
 
 - 🔭 I’m currently working as Flutter Developer.
 - 👯 I’m looking to collaborate on great mobile apps projects.
